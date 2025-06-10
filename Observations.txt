@@ -1,0 +1,24 @@
+1.Age Distribution Histogram
+Observation:
+The majority of passengers are between ages 20 and 40. There are fewer children and elderly passengers on board.
+
+2.Fare Distribution by Passenger Class (Boxplot)
+Observation:
+Passengers in 1st class paid significantly higher fares than those in 2nd and 3rd class. Some outliers in each class paid exceptionally high fares.
+
+3.Scatterplot of Age vs Fare colored by Survival
+Observation:
+Survivors appear more among younger passengers and those who paid higher fares, suggesting age and fare may influence survival chances.
+
+4.Pairplot of Age, Fare, Pclass, and Survived
+Observation:
+The pairplot confirms that survivors are more common in higher passenger classes (Pclass=1) and tend to pay higher fares. Age and Fare also show some separation between survivors and non-survivors.
+
+5.Correlation Heatmap
+Observation:
+There is a strong negative correlation between Pclass and Fare, as lower class numbers represent higher classes with higher fares. Survival correlates positively with Fare and negatively with Pclass.
+
+6.Countplot of Survival by Sex
+Observation:
+Females have a higher survival rate compared to males, indicating gender played an important role in survival.
+

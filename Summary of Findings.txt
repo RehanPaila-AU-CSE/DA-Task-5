@@ -1,0 +1,14 @@
+Summary of Findings:
+
+Age distribution: Most passengers were young adults; very few children and elderly.
+
+Fare and Class: First-class passengers paid significantly higher fares, and higher fare is associated with higher survival rates.
+
+Survival by Gender: Females had a much higher survival rate than males, reflecting the "women and children first" policy.
+
+Passenger Class: Passengers in higher classes (Pclass=1) had better chances of survival than those in 2nd or 3rd class.
+
+Correlations: Survival is positively correlated with fare and negatively with passenger class, suggesting socio-economic factors affected survival chances.
+
+Other Factors: Younger passengers and those who paid higher fares had a better chance of survival.
+
